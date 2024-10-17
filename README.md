@@ -89,9 +89,10 @@ The script will use the bounding boxes and scores to create a new video output w
 
 The project includes two video files to demonstrate the changes:
 
-- **Before Video**: The original video before processing, showing all participants without specific emphasis. [Watch Before Video](https://example.com/path/to/before_video.mp4)
+- **Before Video**: The original video before processing, showing all participants without specific emphasis. 
 
-- **After Video**: The reframed video highlighting the most active participants, optimized for mobile viewing. [Watch After Video](https://example.com/path/to/after_video.mp4)
+- **After Video**: The reframed video highlighting the most active participants, optimized for mobile viewing.
+- https://github.com/user-attachments/assets/25465a45-4d3b-4ca4-95de-c3a9c249535c
 
 
 The output video will be saved in the specified directory, focusing on the most active individuals by placing them in a vertical frame format (9:16 aspect ratio) suitable for mobile viewing.
