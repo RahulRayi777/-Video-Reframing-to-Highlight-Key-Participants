@@ -66,6 +66,8 @@ After running this, you will get the pickle files that contain tracking data for
 
 Using the generated pickle files, the next step is to run the Python script to reframe the video. This will focus on the most active participants by placing one person in the top section and another in the bottom section of a vertical frame.
 
+The reframed video is created with a resolution of 720x1280 pixels, following a 9:16 aspect ratio. This vertical format is ideal for mobile viewing, ensuring that the most important participants are highlighted effectively.
+
 1. **Run the Reframing Script**:
 
 ```sh
